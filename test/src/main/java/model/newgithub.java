@@ -37,8 +37,5 @@ public class newgithub {
 		return usename;
 	}
 
-	public String getPass() {
-		return pass;
-	}
 
 }
